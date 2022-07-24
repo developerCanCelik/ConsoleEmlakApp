@@ -1,0 +1,15 @@
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\bin\Debug\net6.0\ConsoleEmlakApp.exe
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\bin\Debug\net6.0\ConsoleEmlakApp.deps.json
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\bin\Debug\net6.0\ConsoleEmlakApp.runtimeconfig.json
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\bin\Debug\net6.0\ConsoleEmlakApp.dll
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\bin\Debug\net6.0\ConsoleEmlakApp.pdb
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\obj\Debug\net6.0\ConsoleEmlakApp.csproj.AssemblyReference.cache
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\obj\Debug\net6.0\ConsoleEmlakApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\obj\Debug\net6.0\ConsoleEmlakApp.AssemblyInfoInputs.cache
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\obj\Debug\net6.0\ConsoleEmlakApp.AssemblyInfo.cs
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\obj\Debug\net6.0\ConsoleEmlakApp.csproj.CoreCompileInputs.cache
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\obj\Debug\net6.0\ConsoleEmlakApp.dll
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\obj\Debug\net6.0\refint\ConsoleEmlakApp.dll
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\obj\Debug\net6.0\ConsoleEmlakApp.pdb
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\obj\Debug\net6.0\ConsoleEmlakApp.genruntimeconfig.cache
+C:\Users\90539\source\repos\ConsoleEmlakApp\ConsoleEmlakApp\obj\Debug\net6.0\ref\ConsoleEmlakApp.dll
